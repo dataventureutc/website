@@ -1,0 +1,52 @@
+@import 'components/color';
+@import 'components/variables';
+
+.brand-logo img {
+  padding-top: 10px;
+  height: 50px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.space-30 {
+  margin-top: 30px;
+}
+
+.space-60 {
+  margin-top: 60px;
+}
+
+.nomargin {
+  margin: 0 0 0 0 !important;
+}
+
+.dark {
+  color: white;
+}
+
+.header-landing {
+  color: white;
+  background-color: $primary-color;
+  .header-text {
+    padding: 90px 0 90px 0;
+  }
+}
+
+.promo{
+  width: 100%;
+  i {
+    margin: 40px 0;
+    color: $secondary-color;
+    font-size: 5rem;
+    display: block;
+  }
+}
+
+.promo-caption {
+  font-size: 1.7rem;
+  font-weight: 500;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
