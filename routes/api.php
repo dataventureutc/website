@@ -14,3 +14,4 @@ use Illuminate\Http\Request;
 */
 
 Route::post('/newsletter', 'NewsletterController@add')->middleware('api');
+Route::post('/contact', 'ContactController@send')->middleware('api');
