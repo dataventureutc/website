@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="datalab">
 <head>
   <!--Import Google Icon Font-->
   <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -167,7 +167,7 @@
 
   <div class="space-60"></div>
 
-  <div class="section section-grey">
+  <div ng-controller="newsCtrl" class="section section-grey">
     <div class="container">
       <div class="row">
         <div class="col s12">
@@ -177,12 +177,25 @@
       </div>
       <div class="row">
         <div class="col s12 m7 offset-m1 center">
-          <input placeholder="Votre email" id="first_name" type="email" class="validate">
+          <input ng-model="email" placeholder="Votre email" type="email" class="validate">
         </div>
         <div class="col s12 m4 center">
-          <a class="waves-effect waves-light btn"><i class="material-icons left">email</i>S'inscrire</a>
+          <a ng-click="add()" class="waves-effect waves-light btn"><i class="material-icons left">email</i>S'inscrire</a>
         </div>
       </div>
+
+      <div class="col s12">
+        <div ng-show="sending" class="card-alert info">
+          <p><i class="material-icons">info_outline</i>{{ msg }}</p>
+        </div>
+        <div ng-show="success" class="card-alert success">
+          <p><i class="material-icons">check_circle</i>{{ msg }}</p>
+        </div>
+        <div ng-show="error" class="card-alert error">
+          <p><i class="material-icons">warning</i>{{ msg }}</p>
+        </div>
+      </div>
+
     </div>
   </div>
 
@@ -222,8 +235,11 @@
 
   <!--Import jQuery before materialize.js-->
   <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular.min.js"></script>
   <script type="text/javascript" src="assets/js/materialize.min.js"></script>
   <script type="text/javascript" src="assets/js/typed.min.js"></script>
   <script type="text/javascript" src="assets/js/script.js"></script>
+  <script type="text/javascript" src="app/env.js"></script>
+  <script type="text/javascript" src="app/app.js"></script>
 </body>
 </html>

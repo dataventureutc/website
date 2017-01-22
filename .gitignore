@@ -1,5 +1,6 @@
 /public/storage
 /public/assets
+/public/app
 
 /node_modules
 /vendor

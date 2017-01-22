@@ -68,4 +68,8 @@ gulp.task('sources', function() {
   gulp.src([src + '/assets/**/*', '!' + src + '/assets/{sass,sass/**}'])
   .pipe(gulp.dest('public/assets'))
 
+  // app
+  gulp.src([src + '/app/**/*'])
+  .pipe(gulp.dest('public/app'))
+
 });
