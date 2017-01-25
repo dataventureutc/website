@@ -1,26 +1,26 @@
 # Open Datalab website
 
-# Dépendances
+## Dépendances
 
 ```
 composer install
 npm install
 ```
 
-# Configuration
+## Configuration
 
 Configurer les fichiers:
 * Laravel `.env`
 * Angular `resources/app/env.js`
 
-# Base de données
+## Base de données
 
 Faire les migrations Laravel:
 ```
 php artisan migrate
 ```
 
-# Droits UNIX
+## Droits UNIX
 
 Ajouter les droits `777` sur les dossiers `bootstrap` et `storage`:
 ```
@@ -28,7 +28,7 @@ chmod -R 777 bootstrap
 chmod -R 777 storage
 ```
 
-# Compilation
+## Compilation
 
 Compiler le frontend:
 ```
