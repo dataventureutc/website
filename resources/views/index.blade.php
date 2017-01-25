@@ -13,7 +13,7 @@
         <h1 class="center bold">Open Datalab</h1>
         <div class="row center">
           <h4 class="header col s12 thin center">
-            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionés par la <b>Data Science</b>.
+            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionnés par la <b>Data Science</b>.
             Nous travaillons sur des problèmes:<br>
             <b class="element"></b>
           </h4>
