@@ -13,7 +13,7 @@
         <h1 class="center bold">Open Datalab</h1>
         <div class="row center">
           <h4 class="header col s12 thin center">
-            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionnés par la <b>Data Science</b>.
+            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionné par la <b>Data Science</b>.
             Nous travaillons sur des problèmes:<br>
             <b class="element"></b>
           </h4>
@@ -129,7 +129,7 @@
         <div class="col m6 justify">
           <h3>Étudiants</h3>
           Tu es intéressé par la <b>Data Science</b> ou un domaine qui y rattaché (Réseaux, Graphes, Big Data, Machine Learning, Dataviz, ...) ?
-          Tu souhaites développer tes compétances dans ce domaine ? Contribuer à des projets valorisants, innovants ? <b>Rejoins-nous dès maintenant</b> !
+          Tu souhaites développer tes compétences dans ce domaine ? Contribuer à des projets valorisants, innovants ? <b>Rejoins-nous dès maintenant</b> !
           Peu importe ton bagage technique actuel, nous sommes tous là pour apprendre et progresser.
         </div>
       </div>
@@ -138,7 +138,7 @@
         <div class="col m6 justify">
           <h3>Entreprises</h3>
           Confiez-nous des projets, laissez-nous construire des choses avec vous. Nous sommes un collectif pluridisciplinaire mais surtout
-          passionés. Nos <b>compétences</b> et notre <b>énergie</b> peuvent vous aider. Nous serions très heureux d'en discuter avec vous, alors <b>n'hésitez pas à nous contacter</b> !
+          passionés. Nos <b>compétences</b> et notre <b>énergie</b> peuvent vous aider. Nous serons très heureux d'en discuter avec vous, alors <b>n'hésitez pas à nous contacter</b> !
         </div>
         <div class="col m6 center promo">
           <i class="material-icons">business</i>
