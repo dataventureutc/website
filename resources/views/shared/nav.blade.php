@@ -6,7 +6,7 @@
       </a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="./#presentation">Présentation</a></li>
-        <li><a href="" class="tooltipped" data-position="bottom" data-delay="30" data-tooltip="Bientôt :)">Blog</a></li>
+        <li><a href="https://medium.com/opendatalab">Blog</a></li>
         <li><a href="./contact">Contact</a></li>
       </ul>
     </div>

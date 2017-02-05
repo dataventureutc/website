@@ -13,9 +13,7 @@
         <h1 class="center bold">Open Datalab</h1>
         <div class="row center">
           <h4 class="header col s12 thin center">
-            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionné par la <b>Data Science</b>.
-            Nous travaillons sur des problèmes:<br>
-            <b class="element"></b>
+            Association étudiante de <b>Data Science</b>
           </h4>
         </div>
         <div class="row center">
@@ -26,8 +24,19 @@
   </header>
 
   <main>
-    <div id="presentation" class="container section">
+    <div id="presentation" class="section section-grey">
+      <div class="container">
+        <div class="row center">
+          <h5 class="header col s12 light center">
+            Nous sommes un collectif d'étudiants de l'<b>Université de Technologie de Compiègne</b>, passionné par la <b>Data Science</b>.
+            Nous travaillons sur des problèmes:<br>
+            <b class="element"></b>
+          </h5>
+        </div>
+      </div>
+    </div>
 
+    <div class="container section">
       <div class="row">
         <h3 class="col s12 light center header">3 axes principaux</h3>
       </div>

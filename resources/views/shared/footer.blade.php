@@ -10,7 +10,7 @@
       <div class="col l4 s12 center">
         <h5>Liens</h5>
         <ul>
-          <li><a class="white-text text-lighten-3" href="">Blog</a></li>
+          <li><a class="white-text text-lighten-3" href="https://medium.com/opendatalab">Blog</a></li>
           <li><a class="white-text text-lighten-3" href="./contact">Contact</a></li>
           <li><a class="white-text text-lighten-3 tooltipped" href="" data-position="bottom" data-delay="30" data-tooltip="Bientôt :)">Mentions légales</a></li>
         </ul>
