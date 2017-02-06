@@ -19,7 +19,7 @@
       <div class="col l4 s12 center" style="overflow: hidden;">
         <h5>Réseaux sociaux</h5>
         <a href="https://twitter.com/opendatalabutc" target="_blank" class="btn-floating btn-large waves-effect waves-light"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-        <a href="" target="_blank" class="btn-floating btn-large waves-effect waves-light"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+        <a href="https://www.linkedin.com/company/11032417" target="_blank" class="btn-floating btn-large waves-effect waves-light"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
         <a href="https://github.com/opendatalabutc" target="_blank" class="btn-floating btn-large waves-effect waves-light"><i class="fa fa-github" aria-hidden="true"></i></a>
       </div>
 
