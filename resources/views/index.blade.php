@@ -2,7 +2,7 @@
 <html ng-app="datalab">
 <head>
   @include("shared.head")
-  <title>Open Datalab</title>
+  <title>Data Venture</title>
 </head>
 <body>
 
@@ -10,7 +10,7 @@
     @include("shared.nav")
     <section class="header-text">
       <div class="container">
-        <h1 class="center bold">Open Datalab</h1>
+        <h1 class="center bold">Data Venture</h1>
         <div class="row center">
           <h4 class="header col s12 thin center">
             Association étudiante de <b>Data Science</b>
@@ -122,7 +122,7 @@
     <div class="section section-caption">
       <div class="container">
         <h5 class="light center">
-          <b>Open Datalab</b> a pour vocation de devenir un <b>point de départ</b> pour n’importe quel <b>projet data</b> à l’UTC, en apportant
+          <b>Data Venture</b> a pour vocation de devenir un <b>point de départ</b> pour n’importe quel <b>projet data</b> à l’UTC, en apportant
           <b>moyens et compétences</b>, en proposant aux associations et entreprises de les aider dans le <b>traitement</b>
           et la <b>valorisation</b> de leurs données.</h5>
       </div>
@@ -161,7 +161,7 @@
       <div class="container">
         <div class="row">
           <div class="col s12">
-            <h5 class="light center">Recevez des nouvelles d'Open Datalab directement.
+            <h5 class="light center">Recevez des nouvelles de Data Venture directement.
               Nous vous tiendrons au courant des prochaines étapes de l'association avec notre <b>newsletter</b>.</h5>
           </div>
         </div>
