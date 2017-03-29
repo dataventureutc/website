@@ -2,7 +2,7 @@
   <div class="nav-wrapper">
     <div class="container">
       <a href="./" class="brand-logo">
-        <img src="assets/img/logo_white_xsmall.png" alt="Open Datalab" />
+        <img src="assets/img/logo_white_xsmall.png" alt="Data Venture" />
       </a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="./#presentation">Présentation</a></li>
